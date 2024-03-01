@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a215a24c-0186-48ec-af67-e7097f4abacb" name="Changes" comment="" />
+    <list default="true" id="a215a24c-0186-48ec-af67-e7097f4abacb" name="Changes" comment="Collections: Arraylist">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arraylist/Arraylist.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arraylist/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectOrientedProgramming_Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Arraylist/ArrayListExample.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,6 +70,14 @@
       <option name="presentableId" value="Default" />
       <updated>1709318354499</updated>
     </task>
+    <task id="LOCAL-00001" summary="Collections: Arraylist">
+      <created>1709319471052</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709319471052</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -74,5 +90,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Collections: Arraylist" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collections: Arraylist" />
   </component>
 </project>
