@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Arraylist/Arraylist.iml" filepath="$PROJECT_DIR$/Arraylist/Arraylist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Matrix_mult/Matrix_mult.iml" filepath="$PROJECT_DIR$/Matrix_mult/Matrix_mult.iml" />
       <module fileurl="file://$PROJECT_DIR$/ObjectOrientedProgramming_Java.iml" filepath="$PROJECT_DIR$/ObjectOrientedProgramming_Java.iml" />
     </modules>
   </component>
